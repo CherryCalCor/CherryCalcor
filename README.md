@@ -18,8 +18,8 @@ I teach programming languages such as:
 Luau | C# | C++
 
 ### Contact with me
-<a href="t.me/RezinovieTapochkl" target="_blank">
-  <img src="https://shields.io" alt="Telegram" />
+<a href="https://t.me/RezinovieTapochkl">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram">
 </a>
 
 #### Our best project [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) on GitHub.🦉
