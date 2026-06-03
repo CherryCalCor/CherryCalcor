@@ -28,7 +28,7 @@ SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for 
 ##### My activity on GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CherryCalcor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Lua Luau C++" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCalcor&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
