@@ -26,4 +26,11 @@ Luau | C# | C++
 SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for roblox injectors Script for roblox injectors in the lua programming language🌸
 
 ##### My activity on GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CherryCalcor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Lua Luau C++" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryCalcor&theme=radical" alt="GitHub Streak" />
+</p>
