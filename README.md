@@ -1,5 +1,6 @@
-## <img src="https://pika.art/video/e239062c-7fcb-40b4-bf1e-50915fd35618" width="100%" alt="Banner">
-
+## <p align="center">
+  <video src="https://pika.art/video/e239062c-7fcb-40b4-bf1e-50915fd35618" width="80%" controls></video>
+</p>
 
 <!--
 **CherryCalCor/CherryCalcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
