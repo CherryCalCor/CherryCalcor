@@ -17,9 +17,9 @@ We work almost 24/7 tirelessly to ensure that our community uses only high-quali
 I teach programming languages such as:
 Luau | C# | C++
 
-###
-<a href="https://t.me" target="_blank">
-  <img src="t.me/RezinovieTapochkl" alt="Telegram" />
+### Contact with me
+<a href="t.me/RezinovieTapochkl" target="_blank">
+  <img src="https://shields.io" alt="Telegram" />
 </a>
 
 #### Our best project [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) on GitHub.🦉
