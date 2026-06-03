@@ -6,8 +6,13 @@ Our team develops scripts for roblox in the Lua/Luau language.
 
 I have created this team for more than 4 months and now it has more than 14 people.
 
-3 Encoders
-7 Testers
-2 UI Designer
-2 Creator
+3 Encoders👨‍💻
+7 Testers🚀
+2 UI Designer🎨
+2 Creator💡
+
+We work almost 24/7 tirelessly to ensure that our community uses only high-quality products.🌸
+
+
+
 ## Our best project [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) on GitHub.🦉
