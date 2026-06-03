@@ -19,7 +19,7 @@ Luau | C# | C++
 
 ### Contact with me
 <a href="https://t.me/RezinovieTapochkl">
-    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=tokyonight&logo=telegram">
 </a>
 
 #### Our projects
