@@ -22,4 +22,5 @@ Luau | C# | C++
     <img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram">
 </a>
 
-#### Our best project [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) on GitHub.🦉
+#### Our projects
+SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for roblox injectors Script for roblox injectors in the lua programming language🌸
