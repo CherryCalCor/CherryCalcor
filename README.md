@@ -23,7 +23,7 @@ Luau | C# | C++
 </a>
 
 #### Our projects
-SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for roblox injectors Script for roblox injectors in the lua programming language🌸
+SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua)  Script for roblox injectors in the lua programming language🌸
 
 ##### My activity on GitHub
 <p align="center">
@@ -32,5 +32,5 @@ SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryCalCor&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryCalCor&theme=radical" alt="GitHub Streak" />
 </p>
