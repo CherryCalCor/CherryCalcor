@@ -19,7 +19,7 @@ Luau | C# | C++
 
 ### Contact with me
 <a href="https://t.me/RezinovieTapochkl">
-    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=tokyonight&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat&logo=telegram&logoColor=white">
 </a>
 
 #### Our projects
@@ -27,11 +27,10 @@ SEPTUS Hub [Project](https://github.com/CherryCalCor/Septus-Hub.Lua) Script for 
 
 ##### My activity on GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CherryCalcor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCalcor&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CherryCalCor&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryCalCor&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryCalcor&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CherryCalCor&theme=tokyonight" alt="GitHub Streak" />
 </p>
