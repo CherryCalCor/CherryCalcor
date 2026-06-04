@@ -31,8 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
