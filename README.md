@@ -51,4 +51,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CherryCalCor/CherryCalCor/output/github-contribution-grid-snake.svg">
 </picture>
 
-I also want to kill myself.😄
+I want to commit suicide.😄
