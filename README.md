@@ -56,7 +56,7 @@
 
 | Проект | Статус | Версия | Разработчики | Обновлено | Стек технологий | Репозиторий |
 | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
-| **Septus Hub** | ⚪ Active | `v2.14` | 2 Encoders, 1 UI | 06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
+| **Septus Hub** | ⚪ Active | `v2.2` | 2 Encoders, 1 UI | 17.06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
 | **Windows UI customer** | ⚫ Planning | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
 
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
