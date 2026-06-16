@@ -52,4 +52,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CherryCalCor/CherryCalCor/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 🌑 Статус проектов и разработка / Project Status
+
+| Проект | Статус | Версия | Разработчики | Обновлено | Стек технологий | Репозиторий |
+| :--- | :---: | :---: | :---: | :---: | :--- | :---: |
+| **Septus Hub** | ⚪ Active | `v2.14` | 2 Encoders, 1 UI | 06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
+| **Windows UI customer** | ⚫ Planning | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
+
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
