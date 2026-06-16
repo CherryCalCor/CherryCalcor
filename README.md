@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/🎨_Дизайнеры-1-000000?style=flat" alt="Дизайнеры" />
     <img src="https://img.shields.io/badge/💡_Идеи-1-000000?style=flat" alt="Создатели" />
   </p>
-  <p><i>Отражено сокращение состава и реорганизация команды.</i></p>
+  
 
   <h3>🌑 Мои навыки</h3>
   <p>
