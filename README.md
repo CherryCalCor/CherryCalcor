@@ -6,16 +6,16 @@
 
   <p>
     We develop high-quality scripts for <b>Roblox</b> using <b>Lua/Luau</b>.<br>
-    Our team was founded over 4 months ago and now consists of more than <b>14 people</b>.<br>
+    Our team was founded over 4 months ago and now consists of more than <b>7 people</b>.<br>
     We work almost 24/7 tirelessly to ensure that our community uses only the best products. 🌸
   </p>
 
   <h3>🍒 Team Roles</h3>
   <p>
-    <img src="https://img.shields.io/badge/👨‍💻_Encoders-3-DE3163?style=flat" alt="Encoders" />
-    <img src="https://img.shields.io/badge/🚀_Testers-7-8A2BE2?style=flat" alt="Testers" />
-    <img src="https://img.shields.io/badge/🎨_UI_Designers-2-DE3163?style=flat" alt="UI Designers" />
-    <img src="https://img.shields.io/badge/💡_Creators-2-8A2BE2?style=flat" alt="Creators" />
+    <img src="https://img.shields.io/badge/👨‍💻_Encoders-2-DE3163?style=flat" alt="Encoders" />
+    <img src="https://img.shields.io/badge/🚀_Testers-3-8A2BE2?style=flat" alt="Testers" />
+    <img src="https://img.shields.io/badge/🎨_UI_Designers-1-DE3163?style=flat" alt="UI Designers" />
+    <img src="https://img.shields.io/badge/💡_Creators-1-8A2BE2?style=flat" alt="Creators" />
   </p>
 
   <h3>🛠️ I teach programming languages:</h3>
