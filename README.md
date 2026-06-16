@@ -19,7 +19,7 @@
   </p>
   
 
-  <h3>🌑 Мои навыки</h3>
+  <h3>🌑 Языки которые я изучаю</h3>
   <p>
     <img src="https://img.shields.io/badge/Luau-000000?style=flat&logo=roblox&logoColor=white" alt="Luau" />
     <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
