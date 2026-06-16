@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3983aaea-7e73-42e3-8575-b2fcc728c7e5" width="280px" />
+  <img src="https://github.com/user-attachments/assets/22db7850-9522-4f12-b2be-b12c27c4c83d" width="280px" />
  
 
   <h2>🌌 About our team and about me</h2>
@@ -51,4 +51,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CherryCalCor/CherryCalCor/output/github-contribution-grid-snake.svg">
 </picture>
 
-I want to commit suicide.😄
+The team was renamed + half of the members were kicked out.😄
