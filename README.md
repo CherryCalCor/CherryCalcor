@@ -58,6 +58,6 @@
 | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
 | **Septus Hub** | ⚪ Active | `v2.21` | 2 Encoders, 1 UI | 17.06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
 | **SEPTUS Hub GAG 2 Edition** | 🟡 In development | `v0` | 2 Encoders, 1 UI | - | Lua, Custom UI, Exploit Core |*Private*|
-| **Windows UI customer** | ⚫ Planning | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
+| **Windows 10 UI customer** | ⚫ in development | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
 
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
