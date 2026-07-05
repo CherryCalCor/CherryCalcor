@@ -12,10 +12,10 @@
 
   <h3>🌑 Состав команды</h3>
   <p>
-    <img src="https://img.shields.io/badge/👨‍💻_Разработчики-2-000000?style=flat" alt="Разработчики" />
+    <img src="https://img.shields.io/badge/👨‍💻_Разработчики-5-000000?style=flat" alt="Разработчики" />
     <img src="https://img.shields.io/badge/🚀_Тестировщики-3-000000?style=flat" alt="Тестировщики" />
-    <img src="https://img.shields.io/badge/🎨_Дизайнеры-1-000000?style=flat" alt="Дизайнеры" />
-    <img src="https://img.shields.io/badge/💡_Идеи-1-000000?style=flat" alt="Создатели" />
+    <img src="https://img.shields.io/badge/🎨_Дизайнеры-2-000000?style=flat" alt="Дизайнеры" />
+    <img src="https://img.shields.io/badge/💡_Идеи-4-000000?style=flat" alt="Создатели" />
   </p>
   
 
@@ -63,7 +63,7 @@
 | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
 | **Septus Hub** | ⚪ Active | `v2.21` | 2 Encoders, 1 UI | 17.06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
 | **SEPTUS Hub GAG 2 Edition** | 🟡 In development | `v0` | 2 Encoders, 1 UI | - | Lua, Custom UI, Exploit Core | *Private* |
-| **BWSPY** | ⚪ Active | `v1` | 2 Coder | — | Lua/Luau | [Repo ↗](https://github.com/CherryCalCor/BWSPY.Lua) |
+| **BWSPY** | ⚪ Active | `v1` | 3 Encoders, 2 UI | — | Lua/Luau | [Repo ↗](https://github.com/CherryCalCor/BWSPY.Lua) |
 | **Windows 10 UI customer** | ⚫ in development | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
 
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
