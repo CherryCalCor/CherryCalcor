@@ -27,10 +27,15 @@
   </p>
 
   <h3>🌑 Проекты</h3>
-  <a href="https://github.com/CherryCalCor/Septus-Hub.Lua">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CherryCalCor&repo=Septus-Hub.Lua&theme=dark&hide_border=true" alt="Septus Hub Project" />
-  </a>
-
+  <p>
+    <a href="https://github.com/CherryCalCor/Septus-Hub.Lua">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CherryCalCor&repo=Septus-Hub.Lua&theme=dark&hide_border=true" alt="Septus Hub Project" />
+    </a>
+    <a href="https://github.com/CherryCalCor/BWSPY.Lua">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CherryCalCor&repo=BWSPY.Lua&theme=dark&hide_border=true" alt="BWSPY Project" />
+    </a>
+  </p>
+  
   <h3>🌑 Связь со мной</h3>
   <a href="https://t.me/RezinovieTapochkl">
     <img src="https://img.shields.io/badge/Telegram-Join_Us-000000?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
@@ -57,7 +62,8 @@
 | Проект | Статус | Версия | Разработчики | Обновлено | Стек технологий | Репозиторий |
 | :--- | :---: | :---: | :---: | :---: | :--- | :---: |
 | **Septus Hub** | ⚪ Active | `v2.21` | 2 Encoders, 1 UI | 17.06.2026 | Lua, Custom UI, Exploit Core | [Repo ↗](https://github.com/CherryCalCor/Septus-Hub.Lua) |
-| **SEPTUS Hub GAG 2 Edition** | 🟡 In development | `v0` | 2 Encoders, 1 UI | - | Lua, Custom UI, Exploit Core |*Private*|
+| **SEPTUS Hub GAG 2 Edition** | 🟡 In development | `v0` | 2 Encoders, 1 UI | - | Lua, Custom UI, Exploit Core | *Private* |
+| **BWSPY** | ⚪ Active | `v1` | 2 Coder | — | Lua/Luau | [Repo ↗](https://github.com/CherryCalCor/BWSPY.Lua) |
 | **Windows 10 UI customer** | ⚫ in development | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
 
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
