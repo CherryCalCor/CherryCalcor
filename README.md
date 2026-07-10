@@ -65,6 +65,6 @@
 | **Vactory Hub** | 🟡 In development | `v0` | 2 Encoders, 1 UI | - | Lua, Custom UI, Exploit Core | *Private* |
 | **BWSPY** | ⚪ Active | `v1` | 3 Encoders, 2 UI | — | Lua/Luau | [Repo ↗](https://github.com/CherryCalCor/BWSPY.Lua) |
 | **Windows 10 UI customer** | ⚫ in development | `v0.00` | 1 Dev | — | C#, C++ / WinAPI | *Private* |
-| **Septus Hub Redesign** | ⚪Active | `v1.00` | 2 Encoders, 2 UI | — | Lua | *Private* |
+| **Septus Hub Redesign** | ⚪Active | `v1.00` | 2 Encoders, 2 UI | 11.07.2026a | Lua | [Repo ↗](https://github.com/CherryCalCor/Septus-HubRedesign.Lua) |
 
 Мы любим свое комьюнити каким оно токсичным не было🤍🖤
