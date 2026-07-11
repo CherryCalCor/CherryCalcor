@@ -13,9 +13,9 @@
   <h3>🌑 Состав команды</h3>
   <p>
     <img src="https://img.shields.io/badge/👨‍💻_Разработчики-5-000000?style=flat" alt="Разработчики" />
-    <img src="https://img.shields.io/badge/🚀_Тестировщики-3-000000?style=flat" alt="Тестировщики" />
-    <img src="https://img.shields.io/badge/🎨_Дизайнеры-2-000000?style=flat" alt="Дизайнеры" />
-    <img src="https://img.shields.io/badge/💡_Идеи-4-000000?style=flat" alt="Создатели" />
+    <img src="https://img.shields.io/badge/🚀_Тестировщики-7-000000?style=flat" alt="Тестировщики" />
+    <img src="https://img.shields.io/badge/🎨_Дизайнеры-3-000000?style=flat" alt="Дизайнеры" />
+    <img src="https://img.shields.io/badge/💡_Идеи-6-000000?style=flat" alt="Создатели" />
   </p>
   
 
